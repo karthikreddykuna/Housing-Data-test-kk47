@@ -1,0 +1,1 @@
+This project automates the github publish
